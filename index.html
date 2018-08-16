@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- Metadata -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="author" content="George W. Park">
+
+    <!-- Title -->
+    <title>Lock/Unlock with Voice</title>
+
+    <!-- External CSS Files -->
+    <link rel="stylesheet" href="/css/reset.css">
+    <link rel="stylesheet" href="/css/styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:700" rel="stylesheet">
+
+</head>
+<body>
+
+    <h1>Say Either:<br><span>'Lock'</span> or <span>'Unlock'</span></h1>
+    <h2>(or just click the padlock 🔒)</h2>
+
+    <div class="padlock">
+        <div class="keyhole"></div>
+    </div>
+
+    <p class="heard">Heard: <span class="heard-output">nothing</span></p>
+
+    <audio src="https://www.freesfx.co.uk/rx2/mp3s/6/18041_1464275440.mp3" class="padlock-open"></audio>
+    <audio src="https://www.freesfx.co.uk/rx2/mp3s/6/18043_1464275440.mp3" class="padlock-close"></audio>
+
+    <!-- External JavaScript File -->
+    <script src="/js/main.js"></script>
+
+</body>
+</html>

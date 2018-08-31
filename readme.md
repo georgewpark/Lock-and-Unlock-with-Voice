@@ -10,3 +10,6 @@ A live demo is available on [CodePen](https://codepen.io/GeorgePark/pen/GBYqZv).
 
 ## License
 This project is licensed under the MIT License - see the [license.md](license.md) file for details.
+
+## Acknowledgments
+Padlock design inspired by [Chris Cacioppe on Dribbble](https://dribbble.com/shots/4009114-Unlock-Animation)

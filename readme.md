@@ -7,3 +7,6 @@ The speech recognition API is currently only [supported by Chrome](https://caniu
 
 ## Live Demo
 A live demo is available on [CodePen](https://codepen.io/GeorgePark/pen/GBYqZv).
+
+## License
+This project is licensed under the MIT License - see the [license.md](license.md) file for details.
